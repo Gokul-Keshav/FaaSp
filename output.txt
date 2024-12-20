@@ -1,1 +1,1 @@
-Sum of values: 71.8
+Sum of values: 117.8
